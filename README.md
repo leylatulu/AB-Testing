@@ -1,4 +1,4 @@
-# AB-Testing
+<h1 align="center">AB-Testing</h1> 
 
 ## Business Problem
 Company X has recently introduced a new type of bidding, average bidding, as an alternative to the current type of bidding called maximum bidding. 
