@@ -15,6 +15,7 @@ In this dataset, which includes the website information of bombabomba.com, there
 
 <details>
 <summary><h2 align="left">Description of Features</h2></summary>
+
 |**FEATURE**|**DESCRIPTION**|
 |---|---|
 |Impression|Number of ad views|
